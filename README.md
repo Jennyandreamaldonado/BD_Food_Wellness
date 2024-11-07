@@ -26,7 +26,7 @@ Este proyecto ofrece una plataforma donde puedes buscar y descubrir establecimie
 
  📬 Contacto
 Si tienes preguntas o sugerencias, no dudes en contactarnos:
-📧 Email: ingjennymaldonado@gmail.com
-💬 https://github.com/Jennyandreamaldonado
+- 📧 Email: ingjennymaldonado@gmail.com
+- 💬 https://github.com/Jennyandreamaldonado
 
 🙌 ¡Gracias por contribuir a un mundo más saludable! 🌍💚
