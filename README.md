@@ -29,4 +29,4 @@ Si tienes preguntas o sugerencias, no dudes en contactarnos:
 - 📧 Email: ingjennymaldonado@gmail.com
 - 💬 https://github.com/Jennyandreamaldonado
 
-🙌 ¡Gracias por contribuir a un mundo más saludable! 🌍💚
+# 🙌 ¡Gracias por contribuir a un mundo más saludable! 🌍💚
