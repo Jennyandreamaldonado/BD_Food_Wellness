@@ -24,11 +24,4 @@ Este proyecto ofrece una plataforma donde puedes buscar y descubrir establecimie
 
 ---
 
-## ⚡ **Instalación**  
-Sigue estos pasos para ejecutar el proyecto en tu máquina local:
-
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/tu_usuario/healthy-places.git
-
  
